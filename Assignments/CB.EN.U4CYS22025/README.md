@@ -21,7 +21,7 @@
 
 #### Quick Refreshers
 
-- [Scripts](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS202-User_Interface_Design/tree/main/Assignments/CB.EN.U4CYS22025/ui/js)
+- [Scripts](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS202-User_Interface_Design/tree/main/Assignments/CB.EN.U4CYS22025/ui/javascript)
 - [Images](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS202-User_Interface_Design/tree/main/Assignments/CB.EN.U4CYS22025/ui/images)
 - [CSS](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS202-User_Interface_Design/tree/main/Assignments/CB.EN.U4CYS22025/ui/css)
 - [HTTP Codes](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS202-User_Interface_Design/tree/main/Assignments/CB.EN.U4CYS22025/ui/html)
